@@ -1,0 +1,11 @@
+C:\Users\Felix\Documents\C# Prodjects\Change from celsius to kelvin, and fahrenheit\bin\Debug\netcoreapp3.0\Change from celsius to kelvin, and fahrenheit.exe
+C:\Users\Felix\Documents\C# Prodjects\Change from celsius to kelvin, and fahrenheit\bin\Debug\netcoreapp3.0\Change from celsius to kelvin, and fahrenheit.deps.json
+C:\Users\Felix\Documents\C# Prodjects\Change from celsius to kelvin, and fahrenheit\bin\Debug\netcoreapp3.0\Change from celsius to kelvin, and fahrenheit.runtimeconfig.json
+C:\Users\Felix\Documents\C# Prodjects\Change from celsius to kelvin, and fahrenheit\bin\Debug\netcoreapp3.0\Change from celsius to kelvin, and fahrenheit.runtimeconfig.dev.json
+C:\Users\Felix\Documents\C# Prodjects\Change from celsius to kelvin, and fahrenheit\bin\Debug\netcoreapp3.0\Change from celsius to kelvin, and fahrenheit.dll
+C:\Users\Felix\Documents\C# Prodjects\Change from celsius to kelvin, and fahrenheit\bin\Debug\netcoreapp3.0\Change from celsius to kelvin, and fahrenheit.pdb
+C:\Users\Felix\Documents\C# Prodjects\Change from celsius to kelvin, and fahrenheit\obj\Debug\netcoreapp3.0\Change from celsius to kelvin, and fahrenheit.csprojAssemblyReference.cache
+C:\Users\Felix\Documents\C# Prodjects\Change from celsius to kelvin, and fahrenheit\obj\Debug\netcoreapp3.0\Change from celsius to kelvin, and fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\C# Prodjects\Change from celsius to kelvin, and fahrenheit\obj\Debug\netcoreapp3.0\Change from celsius to kelvin, and fahrenheit.AssemblyInfo.cs
+C:\Users\Felix\Documents\C# Prodjects\Change from celsius to kelvin, and fahrenheit\obj\Debug\netcoreapp3.0\Change from celsius to kelvin, and fahrenheit.dll
+C:\Users\Felix\Documents\C# Prodjects\Change from celsius to kelvin, and fahrenheit\obj\Debug\netcoreapp3.0\Change from celsius to kelvin, and fahrenheit.pdb

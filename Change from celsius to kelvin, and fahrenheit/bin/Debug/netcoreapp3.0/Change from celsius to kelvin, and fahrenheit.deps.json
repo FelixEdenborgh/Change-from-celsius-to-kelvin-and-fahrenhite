@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Change from celsius to kelvin, and fahrenheit/1.0.0": {
+        "runtime": {
+          "Change from celsius to kelvin, and fahrenheit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Change from celsius to kelvin, and fahrenheit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
